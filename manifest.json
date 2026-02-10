@@ -1,1 +1,13 @@
+{
+  "schema_version": "1",
+  "id": "initiative-mod-tracker",
+  "name": "Initiative Tracker (Modifiers)",
+  "description": "An initiative tracker with per-token modifiers and tie-break logic",
+  "version": "0.1.0",
+  "author": "Funcky",
+  "ui": {
+    "panel": "index.html",
+    "sidebar": "index.html"
+  }
+}
 
